@@ -1,7 +1,7 @@
 # hadoop-wordcount-test<br>
 build an enviornment and successful settings for hadoop projects development<br>
 <br>
-### this is a idea project<br>
+### this is an idea project<br>
 #### argument parameter format:<br>
 ```
 hdfs://master:9000/input<br>
